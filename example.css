@@ -1,0 +1,14 @@
+#example-top .grid {
+  text-align: center;
+}
+
+#example-top .grid .pic {
+  display: inline-block;
+  margin: 20px;
+  border: 1px solid grey;
+}
+
+#example-top .grid .pic .fll {
+  width: 200px;
+  height: 200px;
+}
